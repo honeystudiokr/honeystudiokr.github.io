@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="4 7.05 92 92"><defs>
+<linearGradient id="hsG" x1="0.15" y1="0" x2="0.65" y2="1"><stop offset="0" stop-color="#FFD36B"/><stop offset=".42" stop-color="#F5A524"/><stop offset=".78" stop-color="#D9700F"/><stop offset="1" stop-color="#A8440A"/></linearGradient>
+<radialGradient id="hsGloss" cx=".3" cy=".18" r=".55"><stop offset="0" stop-color="#fff" stop-opacity=".62"/><stop offset=".55" stop-color="#fff" stop-opacity=".08"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></radialGradient>
+<linearGradient id="hsShade" x1=".2" y1=".2" x2=".9" y2="1"><stop offset=".55" stop-color="#5a1e00" stop-opacity="0"/><stop offset="1" stop-color="#5a1e00" stop-opacity=".38"/></linearGradient>
+<linearGradient id="hsLine" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFD36B"/><stop offset="1" stop-color="#D9700F"/></linearGradient>
+</defs><path d="M45.67 10.5Q50 8 54.33 10.5L80.31 25.5Q84.64 28 84.64 33L84.64 63Q84.64 68 80.31 70.5L64.48 79.64C60.84 81.74 60.67 83.02 61.04 86.5A10.5 10.5 0 1 1 40.16 86.5C40.53 83.02 40.08 82.27 36.44 80.17L19.69 70.5Q15.36 68 15.36 63L15.36 33Q15.36 28 19.69 25.5ZM45.33 34.5Q41 32 41 37L41 59Q41 64 45.33 61.5L64.37 50.5Q68.7 48 64.37 45.5Z" fill="url(#hsG)" fill-rule="evenodd"/></svg>
